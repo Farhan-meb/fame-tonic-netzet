@@ -41,5 +41,3 @@ A modern landing page for turning social media into a profitable career. Built w
 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
-
-# fame-tonic-netzet
