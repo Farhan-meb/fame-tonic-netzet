@@ -1,5 +1,7 @@
 # Fame Tonic Netzet
 
+A modern landing page for turning social media into a profitable career. Built with Next.js and Tailwind CSS, featuring responsive design and pixel-perfect implementation from Figma.
+
 ## 🛠 Tech Stack
 
 -   **Next.js 15.3.4** - React framework
@@ -12,12 +14,16 @@
 
 -   **Figma** - Implementation from [Fametonic Design](https://www.figma.com/design/CeIAZvl524VDP3SpRmDuT5/Fametonic-Open?node-id=1-2&t=OnIhLoO21Dtasg32-0)
 
+## 📁 Repository
+
+-   **GitHub**: [https://github.com/Farhan-meb/fame-tonic-netzet](https://github.com/Farhan-meb/fame-tonic-netzet)
+
 ## 📦 Installation
 
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Farhan-meb/fame-tonic-netzet.git
     cd fame-tonic-netzet
     ```
 
@@ -35,4 +41,5 @@
 
 4. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
+
 # fame-tonic-netzet
