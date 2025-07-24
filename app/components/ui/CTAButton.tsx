@@ -17,7 +17,7 @@ const CTAButton = ({
     return (
         <div className={className}>
             <button
-                className={`flex items-center justify-center gap-2.5 rounded-10 shadow-cyan-glow bg-secondary font-figtree text-xl leading-[100%] font-bold tracking-normal py-2 mb-1.5 cursor-pointer ${
+                className={`flex items-center justify-center gap-2.5 rounded-10 shadow-cyan-glow bg-secondary font-figtree text-xl leading-[100%] font-bold tracking-normal py-2.5 mb-1.5 cursor-pointer ${
                     fullWidth ? "w-full" : ""
                 }`}
                 onClick={onClick}
