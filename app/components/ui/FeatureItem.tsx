@@ -1,9 +1,9 @@
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 import StarIcon from "../../../public/assets/images/star-icon.webp";
 
 interface FeatureItemProps {
     text: string;
-    icon?: any;
+    icon?: string | StaticImageData;
 }
 
 const FeatureItem = ({ text, icon = StarIcon }: FeatureItemProps) => {
